@@ -25,7 +25,7 @@ Below is a link to my Resume/CV where you can find a lot more about my expertise
 
 Cheers!!!.
 
-**[CV/Resume Link](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw](https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)**
+**[CV/Resume Link](https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)**
 
 
 
