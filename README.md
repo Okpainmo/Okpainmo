@@ -16,7 +16,7 @@ I've led and continue to lead teams at different positions throughout my career,
 
 In recent times, I have become highly interested in tech entrepreneurship and tech mentorship. I am currently building my first startup - Jobjo, alongside Zoe collectives - mother company to a fleet of sub-startups.
 
-I publish tech content on my ![YouTube channel](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw)
+I publish tech content on my [YouTube channel](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw)
 where I share my expertise through impressive tutorials/courses to help developers become better.
 
 I love God a lot, and people do mean a lot to me as well.
@@ -25,7 +25,7 @@ Below is a link to my Resume/CV where you can find a lot more about my expertise
 
 Cheers!!!.
 
-**![CV/Resume Link](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw](https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)**
+**[CV/Resume Link](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw](https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)**
 
 
 
