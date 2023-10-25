@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There 👋!, Nice to meet you</h1>
 
-I'm Andrew James Okpainmo. I am a highly gifted and super-intelligent Nigerian software engineer, who is passionate about building ground-breaking inventions with code.
+My name is Andrew James Okpainmo. I am a highly gifted and super-intelligent Nigerian software engineer, who is passionate about building ground-breaking inventions with code.
 
 I am currently a full-stack Javascript/Typescript developer(ReactJs/NextJs + NodeJs), a blockchain(Solidity) developer, and a technical writer.
 I will also be a very capable hand if you need help with DevOps and/or cloud computing.
