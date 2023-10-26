@@ -5,8 +5,9 @@ My name is Andrew James Okpainmo. I am a highly gifted and super-intelligent Nig
 I am currently a full-stack Javascript/Typescript developer(ReactJs/NextJs + NodeJs), a blockchain(Solidity) developer, and a technical writer.
 I will also be a very capable hand if you need help with DevOps and/or cloud computing.
 
-With a good eye for design, and thanks to years I spent learning and practicing front-end development, I am passionate about crafting cutting-edge and pixel-perfect project front-ends 
-that will appeal to users and clients alike. Also due to my gracefully brilliant and highly ingenious mind, I build both backend and blockchain solutions that stand out.
+With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession(About 6 years or more in all), I am passionate about crafting cutting-edge and pixel-perfect project front-ends.
+My experience and graceful brilliance, also help me build project back-ends and blockchain solutions that will appeal to both users and clients alike.  
+
 
 I am an avid learner - *basically, I never stop learning* - especially because software engineering is my passion. I always keep striving to become a better engineer. 
 I'm passionate about the happiness of others, and seek to always collaborate effectively and amicably with everyone. I'm passionate about my work
