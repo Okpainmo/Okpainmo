@@ -1,33 +1,28 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There 👋!, Nice to meet you</h1>
 
-My name is Andrew James Okpainmo. I am a highly gifted and super-intelligent Nigerian software engineer, who is passionate about building ground-breaking inventions with code.
+Greetings.
 
-I am currently a full-stack Javascript/Typescript(web and mobile) developer(ReactJs/NextJs + React Native + NodeJs), a blockchain(Solidity) developer, and a technical writer.
-I will also be a very capable hand if you need help with DevOps and/or cloud computing.
+My name is Andrew James Okpainmo, I'm a highly intelligent, product-driven Nigerian software engineer. 
 
-With a good eye for design, and thanks to the years I’ve spent learning and practising front-end development as a profession(About 6 years or more in all), I am passionate about crafting cutting-edge and pixel-perfect project front-ends.
-My experience and graceful brilliance, also help me build project back-ends and blockchain solutions that will appeal to both users and clients alike.  
+With a passion for software engineering and my avid-leaning nature, I've been able to build a solid software engineering career with skills in full-stack development, 
+Mobile development and blockchain development. I'm currently inclined towards advancing my full-stack career into DevOps engineering as well.
 
+I'm skilled in different core technologies including(but not limited to):
 
-I am an avid learner - *basically, I never stop learning* - especially because software engineering is my passion. I always keep striving to become a better engineer. 
-I'm passionate about the happiness of others, and seek to always collaborate effectively and amicably with everyone. I'm passionate about my work
-for employers(Fidelity is my watchword).
+ReactJs/NextJs, Typescript, NodeJs, and ExpressJs - for full-stack development. 
+React Native/Expo - for mobile development.
+Solidity and Hardhat for blockchain development. 
+AWS for cloud administration/management. And
+MongoDB, PostgreSQL and MySQL - as databases
 
-I've led and continue to lead teams at different positions throughout my career, hopefully, you're here to have me become one on your project soon 😊.
+I'm very passionate about startups. With different attempts at building some(startups) for myself and for clients, I've been able to build an impressive track record of leading and coordinating software engineering teams. 
 
-In recent times, I have become highly interested in tech entrepreneurship and tech mentorship. I am currently building my first startup - Jobjo, alongside Zoe collectives - mother company to a fleet of sub-startups.
+I currently work as a freelance software engineer, and part-time Senior(Lead) Software Engineer at Terabyte. 
 
-I publish tech content on my [YouTube channel](https://www.youtube.com/channel/UC0CKKi10MJUAKWKJ8nZe9Kw)
-where I share my expertise through impressive tutorials/courses to help developers become better.
+One other field that I'm currently passionate about is web3/blockchain. 2024 is the year I'm inclined to settle as a web3-heavy software engineer. To pursue this course, I'm currently building a web3 startup - [Web3 Mastery](https://web3mastery.org).
 
-I love God a lot, and people do mean a lot to me as well.
+I'm currently open to software roles across front-end development, back-end development, full-stack engineering, mobile development and blockchain development.
 
-Below is a link to my Resume/CV where you can find a lot more about my expertise.
+I'll be glad to join new engineering teams to share my engineering and start-up building experience wherever necessary.
 
-Cheers!!!.
-
-**[CV/Resume Link](https://docs.google.com/document/d/1ep-rmk8KtYjeJYt-arCAdhuEB5Ji5Y4dwDkTxRkQ-Gg/edit?usp=sharing)**
-
-
-
-
+Cheers!
