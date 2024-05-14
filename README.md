@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There 👋!, Nice to meet you</h1>
 
-I'm a highly intelligent and product-driven Nigerian software engineer. 
+My name is Andrew James Okpainmo, I'm a highly intelligent and product-driven Nigerian software engineer. 
 
 With a passion for software engineering and my avid-learning nature, I've been able to build a solid software engineering career with skills in full-stack development, Mobile development and blockchain development. I'll also perform decently in a DevOps-related role as well.
 
