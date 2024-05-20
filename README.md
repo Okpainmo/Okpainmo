@@ -1,6 +1,6 @@
 <h1>Hi There 👋!, Nice to meet you</h1>
 
-My name is Andrew James Okpainmo, I'm a highly intelligent and product-driven Nigerian software engineer with a strong interest in startups. 
+My name is Andrew James Okpainmo, I'm a highly intelligent product-driven Nigerian software engineer with a strong interest in startups. 
 
 With a passion for software engineering and my avid-learning nature, I've been able to build a solid software engineering career with skills in full-stack development, Mobile development and blockchain development. I'll also perform decently in any DevOps-related role.
 
