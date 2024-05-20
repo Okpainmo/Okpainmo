@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There 👋!, Nice to meet you</h1>
+<h1>Hi There 👋!, Nice to meet you</h1>
 
 My name is Andrew James Okpainmo, I'm a highly intelligent and product-driven Nigerian software engineer with a strong interest in startups. 
 
