@@ -22,7 +22,7 @@ With valuable years of experience, and different attempts at building some(start
 
 I currently work as a freelance software engineer while building and pursuing my startup aspirations.
 
-One other field that I'm currently passionate about is web3/blockchain. 2024 is the year I'm inclined to settle as a web3-heavy software engineer. To pursue this course, I'm currently building a web3 education(talent development) and talent management startup called [Web3 Mastery](https://web3mastery.org).
+As per my passion for web3/blockchain engineering, 2024 is the year I'm inclined to settle as a web3-heavy software engineer. To pursue this course, I'm currently building a web3 education(talent development) and talent management startup called [Web3 Mastery](https://web3mastery.org).
 
 I'm currently open to software roles across front-end development, back-end development, full-stack engineering, mobile development and blockchain development.
 
