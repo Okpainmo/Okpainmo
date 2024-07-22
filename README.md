@@ -13,7 +13,7 @@ Mobile development | Hiring contributions, team building, team management, and c
 Jquery | Vercel | Netlify | Firebase | Headless UI  | ExpressJs | Mongoose | RabbitMQ | Render | Jest | React Testing Library | Open
 Telemetry | Jaeger | Redis | Git/Github | MongoDB | PostgreSQL | Docker | AWS and more.
 
-• **Blockchain development(Ethereum and Solana)**: Solidity | Rust | Anchor | Hardhat/EthersJs | ChainLink | Open-zeppeling | Aave | IPFS |
+• **Blockchain development(Ethereum and Solana)**: Solidity | Rust | Anchor | Hardhat/EthersJs | ChainLink | Open-zeppelin | Aave | IPFS |
 Pinata | Ganache | Fleek | Metaplex and more.
 
 • **Mobile development**: React Native | Expo and more.
