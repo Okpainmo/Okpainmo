@@ -9,14 +9,14 @@ Feel free to ask me anything about:
 • Software architecture | Full-stack development | Microservices | Blockchain development | Project management | Technical writing |
 Mobile development | Hiring contributions, team building, team management, and culture engineering.
 
-• **Fullstack development**: ReactJs | NextJs | Redux tool-kit | HTML | CSS | SCSS | Bootstrap | TailwindCSS | Javascript | Typescript | Zod |
-Jquery | Vercel | Netlify | Firebase | Headless UI | NodeJs | ExpressJs | Mongoose | RabbitMQ | Render | Jest | React Testing Library | Open
+• **Fullstack development**: ReactJs | NextJs | NodeJs | Rust | Javascript | Typescript | Redux tool-kit | HTML | CSS | SCSS | Bootstrap | TailwindCSS | Zod |
+Jquery | Vercel | Netlify | Firebase | Headless UI  | ExpressJs | Mongoose | RabbitMQ | Render | Jest | React Testing Library | Open
 Telemetry | Jaeger | Redis | Git/Github | MongoDB | PostgreSQL | Docker | AWS and more.
 
 • **Blockchain development(Ethereum and Solana)**: Solidity | Rust | Anchor | Hardhat/EthersJs | ChainLink | Open-zeppeling | Aave | IPFS |
 Pinata | Ganache | Fleek | Metaplex and more.
 
-• **Mobile development**: React Native | Expo.
+• **Mobile development**: React Native | Expo and more.
 
 With valuable years of experience, and different attempts at building some(startups) for myself and for clients, I've been able to build an impressive track record of leading and coordinating software engineering teams. 
 
