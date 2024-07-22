@@ -20,7 +20,7 @@ Pinata | Ganache | Fleek | Metaplex and more.
 
 With valuable years of experience, and different attempts at building some(startups) for myself and for clients, I've been able to build an impressive track record of leading and coordinating software engineering teams. 
 
-I currently work as a freelance software engineer while building and pursuit my startup aspirations.
+I currently work as a freelance software engineer while building and pursuing my startup aspirations.
 
 One other field that I'm currently passionate about is web3/blockchain. 2024 is the year I'm inclined to settle as a web3-heavy software engineer. To pursue this course, I'm currently building a web3 education(talent development) and talent management startup called [Web3 Mastery](https://web3mastery.org).
 
