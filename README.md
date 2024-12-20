@@ -6,6 +6,6 @@
 
 - I build full-stack web-based systems, mobile applications, and Web3/Blockchain systems.
 
-- Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity, Rust and Python/Django. 
+- Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity, Rust and Python/Django And a WHOLE lot more. 
 
 
