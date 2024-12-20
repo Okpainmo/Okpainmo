@@ -4,7 +4,7 @@
 - An avid learner, 
 - An exceptionally gifted, talented and highly flexible(adaptive) senior software engineer with a passion for startups.
 
-- I build full-stackWeb based systems, Mobile applications, and Web3/Blockchain systems.
+- I build full-stack web-based systems, mobile applications, and Web3/Blockchain systems.
 
 - Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity, Rust and Python/Django). 
 
