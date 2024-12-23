@@ -2,7 +2,7 @@
 
 - A 'strategic generalist'.
 - An avid learner. 
-- An exceptionally gifted, talented and highly flexible(adaptive) senior software engineer with a passion for startups.
+- An exceptionally gifted, talented and flexible(highly adaptive) senior software engineer with a passion for startups.
 
 - I build full-stack web-based systems, mobile applications, and Web3/Blockchain systems. I also work as a cloud admistrator with some considerable amount of DevOps expertise.
 
