@@ -4,7 +4,7 @@ My name is Andrew.
 
 Just like everyone else, there are many sides to me and my personality, but below is just a little piece of information about me.
 
-- A 'strategic generalist'.
+- I'm a 'strategic generalist'.
 - An avid learner. 
 - An exceptionally gifted, talented and flexible(highly adaptive) senior software engineer with a passion for startups.
 
