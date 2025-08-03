@@ -1,15 +1,14 @@
 <h1>Hi There 👋!, Nice to meet you</h1>
 
-My name is Andrew.
+I am a versatile senior software engineer specializing in full-stack engineering. Feel free to call me ‘a one-man startup/agency powerhouse’. 
 
-Just like everyone else, there are many sides to me and my personality, but below is just a little piece of information about me.
+I pride myself in being "A strategic generalist"!!!
 
-- I'm a 'strategic generalist'.
-- An avid learner. 
-- An exceptionally gifted and flexible(highly adaptive) senior software engineer with a passion for startups.
+I excel in taking ownership, and spear-heading the development(from ground up - including Cloud Engineering and DevOps) of scalable, high-quality software across web, mobile, and blockchain platforms.
 
-- I build full-stack web-based systems, mobile applications, and Web3/Blockchain systems. I also work as a cloud admistrator with DevOps expertise.
-  Basically, I'm a product-driven engineer with expertice that covers the whole software engineering lifecycle - from ideation and design, to fullstack engineering, to cloud provisioning and deployments, and finally DevOps. 
+I've led multiple on teams, both in engineering and management, and I'm currently Founder/Agency-Lead and CTO at Zed Labs.
+
+I'm currently focused hard on contributing value to the global Web3 ecosystem - architecting and building end-to-end blockchain systems - especially on Ethereum.
 
 - Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity, Rust and Python/Django, AWS, Docker, Kubernetes, and a WHOLE lot more. 
 
