@@ -1,6 +1,6 @@
 <h1>Hi There 👋!, Nice to meet you</h1>
 
-I am a versatile senior software engineer specializing in full-stack engineering. Feel free to call me ‘a one-man startup/agency powerhouse’. 
+I am a versatile senior software engineer specializing in full-stack engineering and blockchain development. Feel free to call me ‘a one-man startup/agency powerhouse’. 
 
 I pride myself in being "A strategic generalist"!!!
 
