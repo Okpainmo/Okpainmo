@@ -10,7 +10,7 @@ I've led multiple on teams, both in engineering and management, and I'm currentl
 
 I'm currently focused hard on contributing value to the global Web3 ecosystem - architecting and building end-to-end blockchain systems - especially on Ethereum.
 
-- Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity, Rust and Python/Django, AWS, Docker, Kubernetes, and a WHOLE lot more.
+- Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity(EVM), Rust(plus Solana) and Python/Django, AWS, Docker, Kubernetes, and a WHOLE lot more.
 
 - Read my articles: [The Zed Labs blog](https://blog.zedlabs.xyz).
 
