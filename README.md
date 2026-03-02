@@ -2,8 +2,6 @@
 
 I am a versatile senior software engineer specializing in full-stack engineering and blockchain development. Feel free to call me ‘a one-man startup/agency powerhouse’. 
 
-I pride myself in being "A strategic generalist"!!!
-
 I excel in taking ownership, and spear-heading the development(from ground up - including Cloud Engineering and DevOps) of scalable, high-quality software across web, mobile, and blockchain platforms.
 
 I've led multiple on teams, both in engineering and management, and I'm currently Founder/Agency-Lead and CTO at Zed Labs.
@@ -11,8 +9,6 @@ I've led multiple on teams, both in engineering and management, and I'm currentl
 I'm currently focused hard on contributing value to the global Web3 ecosystem - architecting and building end-to-end blockchain systems - especially on Ethereum.
 
 - Tools I'm familiar with: Typescript/NodeJs/ReactJs/NextJs/React Native, Solidity(Ethereum/EVM), Rust(plus Solana) and Python/Django, AWS, Docker, Kubernetes, and a WHOLE lot more.
-
-- Read my articles: [The Zed Labs blog](https://blog.zedlabs.xyz).
 
 ## Connect with me
 
